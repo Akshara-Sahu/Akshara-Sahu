@@ -18,6 +18,13 @@ I enjoy turning ideas into working applications and improving my skills through 
 * 📚 Always learning, experimenting and building
 
 ---
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 ## ⚡ Tech Stack
 
@@ -103,13 +110,6 @@ A software development project currently being explored and developed.
 `Programming` `Software Development` `Problem Solving`
 
 [View Project →](https://github.com/Akshara-Sahu/Nebula-Core)
-
----
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 🔥 Contribution Streak
